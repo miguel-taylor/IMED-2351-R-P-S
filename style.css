@@ -6,12 +6,12 @@
   
   section {
     height: 100vh;
-    background-color: rgb(39, 41, 68);
+    background-color: rgb(27, 127, 158);
     font-family: sans-serif;
   }
   
   .score {
-    color: rgb(224, 224, 224);
+    color: white);
     height: 20vh;
     display: flex;
     justify-content: space-around;
@@ -27,7 +27,7 @@
   }
   
   .intro {
-    color: rgb(224, 224, 224);
+    color: white;
     height: 50vh;
     display: flex;
     flex-direction: column;
@@ -47,7 +47,7 @@
     border: none;
     color: rgb(224, 224, 224);
     font-size: 20px;
-    background: rgb(45, 117, 96);
+    background: rgb(233, 151, 0);
     border-radius: 3px;
     cursor: pointer;
   }
@@ -60,7 +60,7 @@
     transition: opacity 0.5s ease 0.5s;
   }
   .winner {
-    color: rgb(224, 224, 224);
+    color: white);
     text-align: center;
     font-size: 50px;
   }
